@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-grid",
+  "version": "3.3.1",
+  "homepage": "https://github.com/tgarlanger/bootstrap-grid",
+  "authors": [
+    "Tony Garlanger <tony@ag9software.com>"
+  ],
+  "description": "The bootstrap grid extracted out of the bootstrap library",
+  "main": "style.css",
+  "keywords": [
+    "boostrap",
+    "grid"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
